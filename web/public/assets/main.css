@@ -1,0 +1,26 @@
+body {
+  background: #c9e5ed;
+}
+
+.container.home {
+  width: 60%;
+  margin: 40px auto;
+}
+
+.container.profile {
+  width: 85%;
+  margin: 40px auto;
+}
+
+.tableWrapper {
+  max-height: 500px;
+  overflow: auto;
+}
+
+.container.search {
+  margin: 40px auto;
+}
+
+.search .user-item {
+
+}
